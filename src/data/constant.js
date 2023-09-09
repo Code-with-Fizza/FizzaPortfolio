@@ -407,7 +407,7 @@ export const projects = [
     ],
     category: "web app",
     // github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://tuk-v2-app.vercel.app/",
+    webapp: "https://tuk.dev/",
   },
   // {
   //   id: 2,
